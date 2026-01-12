@@ -3,8 +3,9 @@ layout: page
 title: project 6
 description: a project with no image
 img:
+redirect: https://unsplash.com
 importance: 4
-category: fun
+category: Writing
 ---
 
 Every project has a beautiful feature showcase page.

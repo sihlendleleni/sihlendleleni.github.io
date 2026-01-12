@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
+title: The Economics of Taste: An Econometric Analysis of Personal 
+Music Consumption 
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: true
+category: Econ
 ---
 
 Every project has a beautiful feature showcase page.

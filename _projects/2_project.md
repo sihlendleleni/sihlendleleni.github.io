@@ -1,11 +1,11 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
+description: A Map of Taste: Four Years, 90,000 Choices
 img: assets/img/3.jpg
+redirect: https://playguycartsih.substack.com/p/a-map-of-taste-four-years-90000-choices?r=6wsywv
 importance: 2
-category: work
-giscus_comments: true
+category: Econ
 ---
 
 Every project has a beautiful feature showcase page.

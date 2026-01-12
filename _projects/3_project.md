@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: The Dance
+description: An essay for Ney
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://playguycartsih.substack.com/p/the-dance?r=6wsywv
 importance: 3
-category: work
+category: Writing
 ---
 
 Every project has a beautiful feature showcase page.

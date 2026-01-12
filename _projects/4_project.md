@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Heavyweight Champion of The World
+description: Drake
 img:
+redirect: https://playguycartsih.substack.com/p/heavyweight-champion-of-the-world?r=6wsywv
 importance: 3
-category: fun
+category: Writing
 ---
 
 Every project has a beautiful feature showcase page.

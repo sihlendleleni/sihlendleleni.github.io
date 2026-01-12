@@ -3,8 +3,9 @@ layout: page
 title: project 5
 description: a project with a background image
 img: assets/img/1.jpg
+redirect: https://unsplash.com
 importance: 3
-category: fun
+category: Writing
 ---
 
 Every project has a beautiful feature showcase page.
