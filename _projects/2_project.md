@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: A Map of Taste: Four Years, 90,000 Choices
-img: assets/img/3.jpg
+img: assets/img/Final poster.png
 redirect: https://playguycartsih.substack.com/p/a-map-of-taste-four-years-90000-choices?r=6wsywv
 importance: 2
 category: Econ
