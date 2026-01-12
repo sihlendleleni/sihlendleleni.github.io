@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-redirect: https://unsplash.com
+title: Blk JKS Essay
+description: Thoughts on one of my favourite bands
+img: assets/img/Blk-Jks.jpg
+redirect: https://playguycartsih.substack.com/p/the-aliens-landed-in-johannesburg?r=6wsywv
 importance: 3
 category: Writing
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: The Dance
 description: An essay for Ney
-img: assets/img/7.jpg
+img: assets/img/ney.jpg
 redirect: https://playguycartsih.substack.com/p/the-dance?r=6wsywv
 importance: 3
 category: Writing
