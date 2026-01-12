@@ -53,6 +53,6 @@ lastfm_id: sihle-
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: assets/img/substack.png # can be png, svg, jpg
+  logo: https://substackcdn.com/image/fetch/$s_!xBQa!,w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack.png # can be png, svg, jpg
   title:
   url: https://playguycartsih.substack.com/
