@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "Some things I&#39;ve worked on",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -426,12 +426,12 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-heavyweight-champion-of-the-world",
           title: 'Heavyweight Champion of The World',
-          description: "Drake",
+          description: "On Drake, The Aviator, and the moment a mixtape became a coronation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-blk-jks-essay",
+          title: 'Blk JKS Essay',
+          description: "Thoughts on one of my favourite bands",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
