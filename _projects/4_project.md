@@ -4,7 +4,7 @@ title: Heavyweight Champion of The World
 description: On Drake, The Aviator, and the moment a mixtape became a coronation
 img: assets/img/Drake.png
 redirect: https://playguycartsih.substack.com/p/heavyweight-champion-of-the-world?r=6wsywv
-importance: 3
+importance: 4
 category: Writing
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blk JKS Essay
+title: BLK JKS Essay
 description: Thoughts on one of my favourite bands
 img: assets/img/Blk-Jks.jpg
 redirect: https://playguycartsih.substack.com/p/the-aliens-landed-in-johannesburg?r=6wsywv
-importance: 3
+importance: 5
 category: Writing
 ---
 

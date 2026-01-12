@@ -1,8 +1,7 @@
 ---
 layout: page
-title: project 2
-description: A Map of Taste: Four Years, 90,000 Choices
-img: assets/img/Final poster.png
+title: A Map of Taste, Four Years, 90,000 Choices
+description: Substack essay
 redirect: https://playguycartsih.substack.com/p/a-map-of-taste-four-years-90000-choices?r=6wsywv
 importance: 2
 category: Econ
