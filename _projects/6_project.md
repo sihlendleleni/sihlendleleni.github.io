@@ -4,8 +4,8 @@ title: project 6
 description: a project with no image
 img:
 redirect: https://unsplash.com
-importance: 4
-category: Writing
+importance: 5
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

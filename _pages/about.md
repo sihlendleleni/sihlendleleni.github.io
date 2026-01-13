@@ -31,3 +31,6 @@ I’m Sihle — an economics student with a habit of asking why things work the 
 My work is driven by curiosity more than certainty. I enjoy taking complex ideas apart, sitting with the uncomfortable bits, and putting them back together in ways that feel clearer and more human. Whether I’m analysing data, writing, or working on a project, I’m drawn to work that values insight over noise and depth over speed.
 
 I come from a background where opportunity was never guaranteed, which has shaped how seriously I take learning and how carefully I think about impact. I’m still figuring things out and I’m okay with that. This space is where I share thoughts, projects, and questions as they evolve.
+
+
+
