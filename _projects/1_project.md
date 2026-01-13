@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Economics of Taste: An Econometric Analysis of Personal Music Consumption 
+title: "The Economics of Taste: An Econometric Analysis of Personal Music Consumption"
 description: with background image
-pdf: assets/pdf/Sihle Econ Portfolio1.pdf
+pdf: /assets/pdf/Econ_Portfolio1.pdf
 importance: 1
 category: Econ
 ---
